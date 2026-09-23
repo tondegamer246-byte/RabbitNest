@@ -1,0 +1,6 @@
+{
+  "name": "RabbitNest - Premium Rabbit Store",
+  "description": "India's premier online store for healthy, friendly Black & White and Pure White rabbits. Safe doorstep delivery, pure breeds, and authentic care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
